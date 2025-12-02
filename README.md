@@ -114,7 +114,11 @@
 
 #### 1. دانلود پروژه
 
-فایل `xSelf.py` را دانلود کنید.
+فایل `xSelf.py` را دانلود کنید 
+```bash
+git clone https://github.com/theesmaeil1/xSelf.git
+cd xSelf
+```
 
 #### 2. نصب وابستگی‌ها
 
@@ -464,4 +468,5 @@ pip install -r requirements.txt
 ---
 
 **⭐ اگر این پروژه برای شما مفید بود، لطفاً ستاره دهید!**
+
 
